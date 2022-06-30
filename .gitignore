@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Jupyter lab
+*.ipynb_checkpoints
+ipynb_checkpoints/
+.virtual_environments
+virtual_environments/
+*.virtual_environments/
 # C extensions
 *.so
 
