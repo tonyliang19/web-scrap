@@ -6,9 +6,10 @@ __pycache__/
 # Jupyter lab
 *.ipynb_checkpoints
 ipynb_checkpoints/
-.virtual_environments
-virtual_environments/
-*.virtual_environments/
+.virtual_documents/
+
+virtual_documents/
+*.virtual_documents/
 # C extensions
 *.so
 
